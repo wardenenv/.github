@@ -29,7 +29,9 @@ warden svc up
 </ul>
 
 # Gold Sponsors
-[![Sansec.io](https://warden.dev/img/sponsors/sansec.svg)](https://www.sansec.io/)
+[![SwiftOtter](https://warden.dev/img/sponsors/swiftotter.svg)](https://www.swiftotter.com/)  
+[![Sansec.io](https://warden.dev/img/sponsors/sansec.svg)](https://www.sansec.io/)  
+[<img src="https://warden.dev/img/sponsors/hyva.svg" height="40" alt="Hyvä" />](https://www.hyva.io/)
 
 Support Warden Development on <a href="https://opencollective.com/warden" rel="me" class="link">OpenCollective</a> or <a href="https://github.com/sponsors/wardenenv" rel="me" class="link">Github Sponsors</a>
 
